@@ -13,7 +13,6 @@ This folder contain scripts used for pre-processing the data (downloading,trimmi
 01-Mapping_and_SVCalling
 ```
 This folder contains a bash script that contains commands used to map reads and call( &filter ) SVs.
-```
 
 ```
 02-Updating_boundaries
@@ -23,7 +22,7 @@ This folder contains scripts used to update TE boundaries
 ```
 03-TE_Calling
 ```
-This folder contains the scripts finally used to call absence/presence of TEs using the updated TE annotation(From 02-Updating\_boundaries) and mapped bam(From 01-Mapping\_and\_SVCalling)
+This folder contains the scripts finally used to call absence/presence of TEs using the updated TE annotation(From _02-Updating\_boundaries_) and mapped bam(From _01-Mapping\_and\_SVCalling_)
 
 ## Authors
 

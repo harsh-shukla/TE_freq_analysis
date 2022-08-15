@@ -30,7 +30,7 @@ This folder contains the scripts finally used to call absence/presence of TEs us
 
 ## Reference
 
-Yuheng Huang, Harsh Shukla, Yuh Chwen G. Lee. "Species-specific chromatin landscape determines how transposable elements shape genome evolution." elife 11 (2022): e81567.
+Yuheng Huang, Harsh Shukla, Yuh Chwen G. Lee. "Species-specific chromatin landscape determines how transposable elements shape genome evolution." elife 11 (2022): e81567. [HTML](https://doi.org/10.7554/eLife.81567)
 
 ## Contact
 
